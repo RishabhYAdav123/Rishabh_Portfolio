@@ -2,6 +2,10 @@
 
 Premium personal portfolio for an AI/ML Engineer and Full Stack Developer, built with Next.js 15, React, TypeScript, Tailwind CSS, Framer Motion, ShadCN-style components, and Lucide Icons.
 
+## Live Demo
+
+[View Portfolio](https://rishabh-portfolio-ebon.vercel.app)
+
 ## Features
 
 - Futuristic dark UI with glassmorphism, animated particles, cursor glow, scroll progress, and smooth section reveals.
